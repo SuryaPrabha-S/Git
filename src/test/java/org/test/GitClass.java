@@ -9,6 +9,14 @@ private void british() {
 }
 private void america() {
 	System.out.println("USA");
-
+}
+private void tamilnadu() {
+	System.out.println("South State");
+}
+private void delhi() {
+	System.out.println("North");
+}
+private void madhyaPradesh() {
+	System.out.println("Central");
 }
 }
